@@ -14,3 +14,5 @@ Summary of data:
 
 <img src=https://github.com/Granty1231/CodePath9/blob/master/honeypot-2.PNG>
 
+Unresolved questions raised by the data collected:
+- What determined the source of attacks geographically? the countries/ IP addresses seemed to come from arbitrary locations
